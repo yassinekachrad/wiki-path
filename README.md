@@ -11,4 +11,6 @@ python script.py
 You will then be prompted to input two wikipedia pages' name (i.e. https://en.wikipedia.org/wiki/<PAGE_NAME>).
 
 # Dependencies
+```
 requests
+```
