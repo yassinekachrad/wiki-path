@@ -1,7 +1,7 @@
 # Wikipedia shortest path finder
 
-ridiculously slow because it sends a request for each link!
-might not even respect Wikipedia's rate limit!
+- ridiculously slow because it sends a request for each link!\
+- might not even respect Wikipedia's rate limit!
 
 # Usage
 
